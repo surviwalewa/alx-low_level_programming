@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_numbers - function that prints the numbers
+ * print_numbers - function that prints the numbers 0 to 9
  *
- * Return: 0
+ * Return: always 0
  */
 void print_numbers(void)
 {
