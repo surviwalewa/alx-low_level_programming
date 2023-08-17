@@ -3,12 +3,12 @@
 /**
  * _isupper - function for upper case characters
  *
- * @c: variable
+ * @c: variable text
  * Return: (0)
  */
 int _isupper(int c)
 {
-	if (c >= 'A' && C <= 'Z')
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}
