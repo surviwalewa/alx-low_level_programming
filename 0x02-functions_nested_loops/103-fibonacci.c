@@ -17,5 +17,6 @@ int main(void)
 		j = k;
 		k = sum;
 	}
+	printf("%ld\n", tsum);
 	return (0);
 }
