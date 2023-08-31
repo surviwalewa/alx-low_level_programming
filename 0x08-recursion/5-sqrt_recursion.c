@@ -21,7 +21,7 @@ int _sqrt_recursion(int n)
  */
 int actual_sqrt_recursion(int n, int j)
 {
-	if (j * j < n)
+	if (j * j > n)
 		return (-1);
 	if (j * j == n)
 		return (j);
